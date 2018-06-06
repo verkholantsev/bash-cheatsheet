@@ -4,7 +4,11 @@
 
 See https://github.com/koalaman/shellcheck/
 
-## Remove prefix/suffix from string
+## String manipulation
+
+See https://www.thegeekstuff.com/2010/07/bash-string-manipulation
+
+### Remove prefix/suffix from string
 
 ```bash
 echo "{$var#*/}" # remove prefix starting with '/'
